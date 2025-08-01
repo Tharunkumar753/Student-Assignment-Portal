@@ -1,18 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to your Student Assignment portal project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/fa34a6bd-c787-457a-b0a0-601640749427
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fa34a6bd-c787-457a-b0a0-601640749427) and start prompting.
+Simply visit the [Student Assignment Portal Project] and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Student Assignment will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,9 +60,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/fa34a6bd-c787-457a-b0a0-601640749427) and click on Share -> Publish.
+Simply open [Student assignment Portal] and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
 Yes, you can!
 
